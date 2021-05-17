@@ -32,9 +32,14 @@ The main objective of this task is to provide you with an open field where you c
 
 In this project, you will be applying the following concepts:
 
-Bar plotting
-Boxplot plotting
-Pie-chart plotting
-Subplot operations
-Feature Correlation
-IQR operations
+-Bar plotting
+
+-Boxplot plotting
+
+-Pie-chart plotting
+
+-Subplot operations
+
+-Feature Correlation
+
+-IQR operations
